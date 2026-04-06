@@ -17,14 +17,17 @@
 
 #### 2.Executive Ceiling: Executive roles command the highest pay but show high variance, suggesting individualized negotiations.
 #### 3.Entry Baseline: Starting salaries remain stable and consistent across most work models.
-Modern Work Trends
-#### 4.Remote Parity: Remote roles consistently match or exceed on-site pay, proving location no longer limits earning potential.
-#### 5.Hybrid Trends: Hybrid models offer stability but often trail fully remote roles in top-tier salary brackets.
-Organizational Insights
-#### 6.Medium-Sized Firms: These companies are highly aggressive, often outbidding large corporations for senior talent.
-Large Corporations: Offer the highest individual salary peaks (outliers) but more varied pay scales overall.
-Strategic Recommendations
-#### 7.For Professionals: Prioritize reaching "Senior" status to unlock high-paying, location-independent opportunities.
-For Employers: Offer "Fully Remote" options to remain competitive against larger firms for elite talent.
 
-#### Thanks!
+## Modern Work Trends:
+#### 1.Remote Parity: Remote roles consistently match or exceed on-site pay, proving location no longer limits earning potential.
+#### 2.Hybrid Trends: Hybrid models offer stability but often trail fully remote roles in top-tier salary brackets.
+
+## Organizational Insights
+#### 1.Medium-Sized Firms: These companies are highly aggressive, often outbidding large corporations for senior talent.
+#### 2.Large Corporations: Offer the highest individual salary peaks (outliers) but more varied pay scales overall.
+
+## Strategic Recommendations:
+#### 1.For Professionals: Prioritize reaching "Senior" status to unlock high-paying, location-independent opportunities.
+#### 2.For Employers: Offer "Fully Remote" options to remain competitive against larger firms for elite talent.
+
+### Thanks!
