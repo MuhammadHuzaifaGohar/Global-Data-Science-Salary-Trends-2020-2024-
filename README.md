@@ -9,6 +9,8 @@
 **2. The Remote Work Revolution: Analyzing how work models (Remote vs. On-site) impact earning potential in a post-pandemic economy.**
 
 **3. Organizational Impact: Comparing how Small, Medium, and Large enterprises compete for top-tier technical talent. Whether you are a job seeker aiming to negotiate your next offer or a recruiter benchmarking global pay scales, this notebook provides a data-driven roadmap to the modern tech economy.**
+<img width="714" height="359" alt="Professional Analysis" src="https://github.com/user-attachments/assets/53bc937c-be28-4ad6-99a6-6f24e26c163f" />
+<img width="672" height="394" alt="Yearly Salary Evolution By Experience Level" src="https://github.com/user-attachments/assets/77df5b71-2614-45e1-8304-5482178b35cf" />
 
 ## Analysis Report:
 
