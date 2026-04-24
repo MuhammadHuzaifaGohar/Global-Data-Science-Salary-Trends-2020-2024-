@@ -1,4 +1,4 @@
-# Global-Data-Science-Salary-Trends-2020-2024
+# Global-Data-Science-Salary-Trends-2020-2024| Kaggle
 
 >## Global Analysis of Salaries, Remote Work, and Career Growth
 
